@@ -26,9 +26,4 @@ The project aims to analyze global EV market trends by processing and visualizin
 - SQL (PostgreSQL)
 - Jupyter Notebook
 
-## Installation
-To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Global-EV-Market-Analysis.git
